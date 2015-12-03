@@ -1,0 +1,7 @@
+[[EmailAccount]]
+    from = "francisco.@...com"
+    to = "f.@...io"
+    pass = ""
+
+[[EmailRoute]]
+    endpoint = "sendemail"
